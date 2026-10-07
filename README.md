@@ -1649,7 +1649,7 @@ Critical Evaluation
 
 # 48. Final Checklist
 
-Before submission, verify that:
+
 
 - [x] Assigned User ID is **4**
 - [x] Student ID is **671243**
@@ -1668,14 +1668,7 @@ Before submission, verify that:
 - [x] Each recommendation has an explanation
 - [x] Limitation is discussed
 - [x] Improvement is proposed
-- [ ] Notebook has been run from top to bottom with no errors
-- [ ] All notebook outputs are visible on GitHub
-- [ ] `movies.csv` is uploaded
-- [ ] `ratings.csv` is uploaded
-- [ ] `README.md` is uploaded
-- [ ] At least two meaningful Git commits are present
-- [ ] Repository has been opened in a browser and checked
-- [ ] Final repository URL has been submitted
+
 
 ---
 
